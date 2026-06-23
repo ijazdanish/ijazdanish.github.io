@@ -15,6 +15,7 @@ This repository hosts the personal portfolio website of Muhammad Danish Ijaz, a 
 - Clean, modern portfolio landing page built with HTML and CSS
 - Responsive hero section with professional branding and contact call-to-action
 - Developer-focused messaging for clients and recruiters
+- Featured project highlight for a mobile social media app with native camera bridging, spatial media coverage, and immersive video playback
 
 ### Deployment
 
